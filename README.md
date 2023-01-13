@@ -1,10 +1,1 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
-
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
-Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
-
-Feel free to add your own or someone else's profile README if you find it super awesome! 
-
-Don't forget to leave a if you find this repo useful ⭐
-
-Thankyou🎆
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg](https://scontent-waw1-1.cdninstagram.com/v/t51.288…IdVPPvZCE5hDHRm4xbs_qg&oe=63C5CA57&_nc_sid=1527a3)
